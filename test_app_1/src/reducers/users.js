@@ -16,4 +16,3 @@ export default function users(state = INITIAL_STATE, action){
         }
     }
 }
-//Test
